@@ -1,4 +1,6 @@
-def gether_data():
+import test
+
+def gether_data(): 
     n1 = input("Primeiro valor: ")
     n2 = input("Segundo valor: ")
     op = input("Operação: ")
